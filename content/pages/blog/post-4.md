@@ -6,7 +6,6 @@ categories:
   - content/data/categories/tutorials.yaml
   - content/data/categories/news.yaml
   - content/data/categories/category-uzv9v2f7g.json
-  - content/data/categories/category-bcfuvj2pl.json
 tags:
   - JAMstack
   - Sourcebit
